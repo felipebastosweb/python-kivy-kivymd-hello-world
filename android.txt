@@ -1,0 +1,3 @@
+title=FitnessApp
+author = felipebastosweb
+orientation = portait
